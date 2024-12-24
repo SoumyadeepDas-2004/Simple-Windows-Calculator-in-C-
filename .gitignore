@@ -1,0 +1,9 @@
+# Exclude build directories
+x64/
+.vs/
+*.exe
+*.obj
+*.pdb
+
+# Exclude user-specific files
+*.vcxproj.user
